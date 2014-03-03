@@ -1,0 +1,4 @@
+Práctica Común1
+Proyecto FilaCuatroSA.
+Carpeta SomosTodos.
+Archivo personal Elena para proyecto común.
