@@ -1,5 +1,5 @@
-Práctica Común1
+PrActica ComUn
 Proyecto FilaCuatroSA.
 Carpeta SomosTodos.
-Archivo personal Elena para proyecto común.
+Archivo personal Elena para proyecto comUn FilaCuatroSA/SomosTodos.
 Esta linea La ha implementado Jose
